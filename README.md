@@ -1,3 +1,3 @@
 # SSL
 
-Front page del repositorio.
+Repositorio de Sintaxis y Semantica de los Lenguajes.
